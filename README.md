@@ -2,7 +2,7 @@
 
 ## did analysis using pizza order data
 
-### did some cool stuff
+### did some <i>cool</i> stuff
 ### some other stuff was done
 
 ## also these stuff
