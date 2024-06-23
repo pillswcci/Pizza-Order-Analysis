@@ -9,5 +9,11 @@
 
 ### things
 ### more things
-
 # say stuff
+
+| Syntax      | Description |
+| ----------- | ----------- |
+| Header      | Title       |
+| Paragraph   | Text        |
+
+
